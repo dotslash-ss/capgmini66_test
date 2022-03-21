@@ -12,6 +12,7 @@ public class HelloWorld {
 		
 		//comments test
 				System.out.println("git test 2");
+		//committing a change : @vikas
+				System.out.println("git test 2");
 	}
-
 }
